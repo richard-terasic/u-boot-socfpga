@@ -102,3 +102,10 @@ __pycache__
 # pylint files
 /pylint.cur
 /pylint.out/
+tools/boot/bootm.c
+tools/boot/fdt_region.c
+tools/boot/image-cipher.c
+tools/boot/image-fit-sig.c
+tools/boot/image-fit.c
+tools/boot/image-host.c
+tools/boot/image.c
