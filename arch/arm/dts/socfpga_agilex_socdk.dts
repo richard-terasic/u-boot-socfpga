@@ -63,7 +63,7 @@
 		#size-cells = <0>;
 		compatible = "snps,dwmac-mdio";
 		phy0: ethernet-phy@0 {
-			reg = <4>;
+			reg = <1>;
 
 			txd0-skew-ps = <0>; /* -420ps */
 			txd1-skew-ps = <0>; /* -420ps */
